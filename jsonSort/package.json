@@ -1,0 +1,8 @@
+{
+  "name": "sortjson",
+  "version": "1.0.6",
+  "description": "sort json by key",
+  "main": "index.js",
+  "author": "rishabh chandel",
+  "license": "ISC"
+}
